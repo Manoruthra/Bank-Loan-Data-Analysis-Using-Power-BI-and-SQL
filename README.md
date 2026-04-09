@@ -45,7 +45,9 @@ To create a grid view report categorized by 'Loan Status.’ By providing insigh
 **GRID**:
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently
 
+**Conclution:**
 
+Developed an interactive Bank Loan Analysis dashboard using Power BI and SQL to track key KPIs and lending trends. Enabled data-driven decision-making by visualizing loan performance, borrower behavior, and risk metrics. Demonstrated strong skills in data analysis, visualization, and business intelligence.
 
 
 
